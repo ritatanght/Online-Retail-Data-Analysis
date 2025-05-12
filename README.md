@@ -14,17 +14,15 @@ This repository contains an analysis of an Online Retail dataset consisting of t
 
 ## Data Description
 - Transactions: 500,000+
-
-The dataset contains the following columns:
-
-- `InvoiceNo`: Unique identifier for each transaction.
-- `StockCode`: Unique code of the product.
-- `Description`: Description of the product.
-- `Quantity`: Quantity of the product purchased in the transaction.
-- `InvoiceDate`: Date and time of the transaction.
-- `UnitPrice`: Price of the product per unit.
-- `CustomerID`: Unique identifier for the customer.
-- `Country`: Country where the transaction took place.
+- The dataset contains the following columns:
+   - `InvoiceNo`: Unique identifier for each transaction.
+   - `StockCode`: Unique code of the product.
+   - `Description`: Description of the product.
+   - `Quantity`: Quantity of the product purchased in the transaction.
+   - `InvoiceDate`: Date and time of the transaction.
+   - `UnitPrice`: Price of the product per unit.
+   - `CustomerID`: Unique identifier for the customer.
+   - `Country`: Country where the transaction took place.
 
 ## Analysis Process
 
